@@ -47,11 +47,9 @@ Download and install the following programs if you get a choice of version, it's
   - [Atom](https://atom.io/) (My current choice)
   - [Sublime](https://www.sublimetext.com/3) (Also very good)
 
-## Step 5
-Activate the Linux terminal (useful for GIT and much more) using [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/).
 
-## Step 6
+## Step 5
 If you have any additional suggestion for this guide please let the teacher know.
 
-## Step 7
+## Step 6
 Check for windows updates again, they have probably released 3 new one since you started. Update and restart.
